@@ -1,0 +1,16 @@
+Unidad I
+1 Sistema Binario
+El sistema binario es un sistema de numeración el cual únicamente emplea 2 elementos que son el 0 y 1 con estos 2 números está construido toda la rama de la informática, ya que para que un computador sea capaz de ejecutar nuestras instrucciones debe recibir las mismas a través del sistema binario. 
+El sistema binario en la programación se utiliza para establecer ese lenguaje entre computador y persona fuera de la programación muchos de los dispositivos Celulares, calculadoras relojes vitales funcionan a través de este sistema.
+
+2 Lógica
+A través de la lógica podemos llegar a determinar si una oración o enunciado es verdadero o falso  
+La lógica en la programación  muestra que a partir de varias proposiciones se pueden calcular diversos escenarios para determinar si una oración es verdadera o falsa.  Fuera de la programación podemos usarlas para determinar si argumentos u oraciones que escuchamos pueden llegar a ser verdaderos  
+
+3 Algoritmos
+Es una serie de pasos o instrucciones para realizar alguna tarea o actividad concreta este debe ser lo más simple para ello se debe de realizar algoritmos encargados de una tarea en específico para así en conjunto este resolverá un problema complejo
+Con los algoritmos en programación podemos llegar a una solución en computación fuera de la programación los usamos a diario sin darnos cuenta desde levantarnos y prepararnos para ir a trabajar tanto como cuando preparamos una comida.
+
+4 Programación
+En la programación se hacen uso de los algoritmos para así a través de estas instrucciones y de forma ordenada una computadora o dispositivo electrónico pueda realizar su tarea asignada. 
+La programación nos ayuda a través de nuestra computadora a darle soluciones a problemas que aún no están resueltos fuera de esta en la vida cotidiana un ejemplo es cundo hacemos organizamos nuestras agendas aunque no necesariamente involucre código.
